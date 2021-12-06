@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996044387475",
+    "firebase_url": "https://iotlab1-90185-default-rtdb.firebaseio.com",
+    "project_id": "iotlab1-90185",
+    "storage_bucket": "iotlab1-90185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996044387475:android:415db928c93cc87dcdc966",
+        "android_client_info": {
+          "package_name": "com.iotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996044387475-rfamgaq3t36avvk66k9lg1ovn377ucbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX5TEFtcomAssLrFAnYZ_umZOTKX9YUR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996044387475-rfamgaq3t36avvk66k9lg1ovn377ucbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
